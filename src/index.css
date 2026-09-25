@@ -1,15 +1,4 @@
-.card{
-    border: 2px solid hsl(0, 0%, 39%);
-    border-radius: 10px;
-    box-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.219);
-    display: inline-block;
-    align-items: center;
-    padding: 15px;
-    max-width: 250px;
-    text-align: center;
-    margin: 10px;
-}
-.card img{
-    width: 150px;
-    height: 150px;
+.student{
+    background-color: aqua;
+    max-width: 400px;
 }

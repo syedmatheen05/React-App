@@ -1,10 +1,10 @@
-import Card from "./card.jsx";
+import Student from "./student";
 function App(){
   return(
     <>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Student name="Syed Matheen" age={30} isStudent={false}></Student>
+      <Student name="Abdul Haleem" age={40} isStudent={true}></Student>
+      <Student />
     </>
     
   );
